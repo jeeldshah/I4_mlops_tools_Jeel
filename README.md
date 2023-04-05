@@ -35,7 +35,11 @@ You can download the following files that have been used as input:
 
 1. The "movie_recommendation_movielens_final.yxmd" file contains the workflow for the Recommendation Engine.
 Import this file after installing Alteryx.
-2. Double click on the input data nodes and browse for you input data files (rating.csv and movie.csv).
-3. Click on run in the upper right corner.
+2. Enter your ratings in the node "My Movie Ratings" (You will be able to see a table such as the one below)
+
+![my_rating](images/my_rating.png)
+
+3. Double click on the input data nodes and browse for you input data files (rating.csv and movie.csv).
+4. Click on run in the upper right corner.
 
 #### More information about the tool can be found in I4_Alteryx.pdf
